@@ -1,3 +1,4 @@
+# Function used in Jake Vanderplas's Seattle bike analysis
 # Define a function which returns the hours of daylight
 # given the day of the year, from 0 to 365
 import pandas as pd
